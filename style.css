@@ -1,0 +1,30 @@
+body {
+    margin: 0%;
+    background-image: url(../photo/moon.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    color: #ffff;
+}
+.info {
+    font-size: 40px;
+    font-family:sans-serif;
+    text-shadow:2px 5px 2px #ff0055;
+}
+form {
+    text-align: center;
+    padding-top: 10%;
+}
+input {
+    outline: none;
+    border: none;
+}
+footer {
+    text-align: center;
+    padding-top: 18%;
+}
+#myButton:hover {
+    background-color:silver;
+}
+ #myInput:hover {
+        background-color:silver;
+    }
